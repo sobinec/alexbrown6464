@@ -21,7 +21,7 @@ I also have a blog where I share my thoughts on game development, programming, a
 
 ## 📫 How to reach me
 
-Feel free to reach out if you're interested in game development, programming, open-source projects, or just want to chat about life in general.
+Feel free to reach out if you're interested in game development, programming, open-source projects, or just want to chat about life in general. [Text me here](https://sobinec.vercel.app/contact.html)
 
 ## 💖 Support
 
